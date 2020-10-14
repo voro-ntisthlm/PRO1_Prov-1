@@ -1,0 +1,13 @@
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\bin\Debug\netcoreapp3.1\Battleship.exe
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\bin\Debug\netcoreapp3.1\Battleship.deps.json
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.json
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.dev.json
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\bin\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\bin\Debug\netcoreapp3.1\Battleship.pdb
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\obj\Debug\netcoreapp3.1\Battleship.csprojAssemblyReference.cache
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfoInputs.cache
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfo.cs
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\obj\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\obj\Debug\netcoreapp3.1\Battleship.pdb
+C:\Users\viktor.olsson3\Documents\GitHub\Prov-1\Battleship\obj\Debug\netcoreapp3.1\Battleship.genruntimeconfig.cache
