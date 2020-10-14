@@ -83,6 +83,12 @@ namespace Battleship
         }
 
         static bool ValidateHit(int _shipCord, int _playerCord, int _xWidth){
+            
+            if (_playerCord <= _shipCord+2 && _playerCord >= _shipCord-2)
+            {
+                Console.WriteLine("Close!");
+            }
+            
             //This will validate the players cordinate, and if it has hit the target. Otherwise it will simply return false;
             if (_playerCord <= _xWidth && _playerCord >= 0 && _shipCord == _playerCord)
             {
