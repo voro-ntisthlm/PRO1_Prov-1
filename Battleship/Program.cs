@@ -54,7 +54,7 @@ namespace Battleship
                 switch (args[i])
                 {
                 case "-splash":
-                    Splash();
+                    Splash(); //Will print the splash effect
                     break;
                 case "-clr":
                         Console.Clear();
@@ -86,7 +86,7 @@ namespace Battleship
             //This will validate the players cordinate, and if it has hit the target. Otherwise it will simply return false;
             if (_playerCord <= _xWidth && _playerCord >= 0 && _shipCord == _playerCord)
             {
-                Hit();
+                Hit(); //Will print the Hit effect.
                 Console.WriteLine("HIT!\n");
                 return true;
             }
